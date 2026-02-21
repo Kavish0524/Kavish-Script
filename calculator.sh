@@ -11,3 +11,7 @@ y=2-3
 
 a=4*9
  #  module
+
+#Division
+
+z= 10%2
